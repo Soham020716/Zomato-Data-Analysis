@@ -92,7 +92,7 @@ The goal of this Power BI project is to transform raw food delivery data into an
 ![Executive & Time Analytics](https://github.com/Soham020716/Zomato-Data-Analysis/blob/main/Snapshot%20of%20Dashboard%201.png)
 
 ### Location & Intelligence
-![Location & Intelligence](screenshots/dashboard-2.png)
+![Location & Intelligence](https://github.com/Soham020716/Zomato-Data-Analysis/blob/main/Snapshot%20of%20Dashboard%202.png)
 
 ### Food & Cuisine Analysis
 ![Food & Cuisine Analysis](screenshots/dashboard-3.png)
