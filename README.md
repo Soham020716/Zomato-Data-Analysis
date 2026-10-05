@@ -95,7 +95,7 @@ The goal of this Power BI project is to transform raw food delivery data into an
 ![Location & Intelligence](https://github.com/Soham020716/Zomato-Data-Analysis/blob/main/Snapshot%20of%20Dashboard%202.png)
 
 ### Food & Cuisine Analysis
-![Food & Cuisine Analysis]()
+![Food & Cuisine Analysis](https://github.com/Soham020716/Zomato-Data-Analysis/blob/main/Snapshot%20of%20dashboard%203.png)
 
 ### Delivery & Growth Optimization
 ![Delivery & Growth Optimization](https://github.com/Soham020716/Zomato-Data-Analysis/blob/main/Snapshot%20of%20Dashboard%204.png)
